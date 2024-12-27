@@ -3,6 +3,9 @@ The Excel Clone Project is a web-based spreadsheet application that replicates t
 
  Live Demo https://akhileshyadav7007.github.io/Excel_Clone_Project/
 
+ <img width="960" alt="image" src="https://github.com/user-attachments/assets/e89db986-0941-444f-9b80-2c6b035687c5" />
+
+
 # Features
 ### Data Entry and Editing: Input, modify, and delete data in a grid-based system, mimicking a spreadsheet.
 ### Formulas and Calculations: Perform basic arithmetic operations like addition, subtraction, multiplication, and division using simple formulas (e.g., =A1+B1).
